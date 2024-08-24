@@ -1,0 +1,232 @@
+{
+  "heading": "Addition and Subtraction of Integers using properties and rules",
+  "topics": [
+    {
+      "heading": "Addition and Subtraction of Integers using properties and rules",
+      "questions": [
+        {
+            "questionNo": 1,
+            "question": "In a room illuminated by mysterious crystals, they found an equation etched onto a tablet:<br> '(-373) - (-300) + (-128) = ?' <br>Help them solve this equation.",
+            "options": [
+                "201",
+                "-318",
+                "318",
+                "-201"
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 2,
+            "question": "In their journey, Sarah and Tom found themselves at a crossroads where a sign read:<br> Are (-761) + (-222) and (-222) + (-761) equal?",
+            "options": [
+                "Yes, they are equal",
+                "No, they are not equal",
+                "They might be equal",
+                "It cannot be determined"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 3,
+            "question": "As they ventured further, they encountered a chamber with a riddle inscribed on the walls:<br> 'The sum of -949 and additive inverse of -68, subtracted from 2000, equals?'",
+            "options": [
+                "1898",
+                "2881",
+                "-2881",
+                "-1898"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 4,
+            "question": "While traversing the mystical realm, Sarah and Tom encountered a bridge guarded by a problem (-11) + 3 = 3 + (-11), which property is being illustrated?",
+            "options": [
+                "Associative Property",
+                "Commutative Property",
+                "Distributive Property",
+                "Identity Property"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 5,
+            "question": "Seeking clues to unlock the secrets of addition properties, Sarah and Tom stumbled upon a wise owl who posed a question:<br> 'What is the result of (-1001) + (-101)?'",
+            "options": [
+                "-1102",
+                "-900",
+                "900",
+                "1102"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 6,
+            "question": "While exploring a hidden chamber, Sarah and Tom encountered a puzzle that stated: <br>By which property <br>(60 + 21) + 4 = 60 + (21 + 4) are equal?",
+            "options": [
+                "Commutative property",
+                "Associative property",
+                "Additive inverse",
+                "None of the above"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 7,
+            "question": "As they journeyed further, Sarah and Tom found an ancient scroll containing an equation:<br> a + (b + c) = (a + b) + c. <br>Which property of addition does this equation illustrate?",
+            "options": [
+                "The commutative property",
+                "The identity property",
+                "The associative property",
+                "The closure property"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 8,
+            "question": "Sarah and Tom discovered an ancient scroll that asked: 'Which property is illustrated by the equation <br> a − b ≠ b − a in subtraction?'",
+            "options": [
+                "The commutative property",
+                "The associative property",
+                "The closure property",
+                "The non-commutative nature of subtraction"
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 9,
+            "question": "Continuing deeper into the ruins, they faced a puzzle carved into the stone floor: <br>'Which additive inverse will come in place of _____ in the given equation to make it 0?<br> _____ + 9976 = 0'",
+            "options": [
+                "9976",
+                "0",
+                "-9976",
+                "None of the above"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 10,
+            "question": "To open a magical gate, Sarah needed to use the property of subtraction involving the same number.<br> Mathius asked, 'What is -9999 - (-9999)?'",
+            "options": [
+                "9999",
+                "-9999",
+                "0",
+                "None of the above"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 11,
+            "question": "While exploring, Tom encountered a puzzle asking him to identify the equation that correctly applies the commutative property to the numbers 303 and 111.",
+            "options": [
+                "303 + (111) = (111) + 303",
+                "303 - 111 = 111 + (-303)",
+                "111 - (303) = 303 + 111",
+                "-111 + (-303) = (303) - 111"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 12,
+            "question": "Sarah needs to demonstrate the associative property of addition using the numbers 84, 95, and 16. Which of the following correctly uses this property?",
+            "options": [
+                "(84 + 95) + 16 = 84 + (95 x 16)",
+                "(84 + 95) + 16 = 84 + (95 + 16)",
+                "(84 x 95) + 16 = 84 + (95 + 16)",
+                "(84 + 95) + 16 = 84 x (95 + 16)"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 13,
+            "question": "Tom discovered a mysterious amulet with a negative energy value of -9,770. If Sarah adds 2,990 to the amulet's energy, what will be its final energy value?",
+            "options": [
+                "12,760",
+                "-12,760",
+                "-6,780",
+                "6,780"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 14,
+            "question": "Mathius challenged Sarah with the equation<br> 1225 + (−188) + 520. What is the correct solution?",
+            "options": [
+                "-1557",
+                "517",
+                "1557",
+                "-517"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 15,
+            "question": "To unlock the first door in the realm, Sarah must find the additive inverse of the enchanted number 5099. What is the additive inverse?",
+            "options": [
+                "-5099",
+                "5099",
+                "0",
+                "None of the above"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 16,
+            "question": "Mathius told Sarah and Tom that to find their way back, they must use the commutative property of addition. Which of the following equations correctly demonstrates this property with the numbers 912 and 250?",
+            "options": [
+                "912 + 250 = 250 + 912",
+                "912 + 250 = 912 - 250",
+                "912 x 250 = 250 x 912",
+                "912 + 250 = 250 - 912"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 17,
+            "question": "Tom encountered a riddle that required using the additive identity to solve a simple equation. If he starts with the number -1857, what should he add to it to maintain the same value?",
+            "options": [
+                "-1857",
+                "1857",
+                "0",
+                "None of the above"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 18,
+            "question": "Sarah stumbles upon the equation<br> 9007 + (-3002) - 5002. Tom insists he can solve it quickly and help her. Can you figure out the answer to help Tom do the calculations quickly?",
+            "options": [
+                "1003",
+                "-7007",
+                "-1003",
+                "7007"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 19,
+            "question": "At the heart of the ruins, they faced a daunting challenge to solve this equation:<br> 1842 - 240 - ( - 808)",
+            "options": [
+                "-2410",
+                "2410",
+                "794",
+                "-794"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 20,
+            "question": "Sarah found a treasure chest guarded by a magical lock. The inscription read: 'To open, find the additive inverse of -301 and then add - 908 to it.' What number should she enter into the lock to open it?",
+            "options": [
+                "301",
+                "-301",
+                "607",
+                "-607"
+            ],
+            "answer": 3
+        }
+    ]
+    
+    
+    }
+  ]
+}
